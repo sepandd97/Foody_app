@@ -14,4 +14,9 @@
     <string name="recipes_fragment">Recipes</string>
     <string name="food_joke_fragment">Food Joke</string>
     <string name="favorite_recipes_fragment">Favorite Recipes</string>
+    <string name="recipes_button">recipes button</string>
+    <string name="recipes">recipes</string>
+    <string name="no_internet_connection">no internet connection</string>
+    <string name="internet_connection_not_found">internet connection not found</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
 </resources>
